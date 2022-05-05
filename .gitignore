@@ -1,4 +1,4 @@
-/check
-/venv
+check
+venv
 db.sqlite3
 .env
